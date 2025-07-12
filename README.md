@@ -215,11 +215,10 @@ rm -rf $HOME/0g-storage-node/run/db/flow_db
 * Download and extract the Flow db:
 
 ```bash
-wget https://github.com/Naveenrawde3/0G-LABS-STORAGE-NODE-RUN-GUIDE-BY-NTEK/releases/download/v1.0/flow_db.tar.gz \
+wget https://github.com/Naveenrawde3/0G-LABS-STORAGE-NODE-RUN-GUIDE-BY-NTEK-New-/releases/download/v1.0/flow_db.tar.gz \
   -O $HOME/0g-storage-node/run/db/flow_db.tar.gz && \
   tar -xzvf $HOME/0g-storage-node/run/db/flow_db.tar.gz -C $HOME/0g-storage-node/run/db/
 ```
-
 
 ## 🔁 Restart ZGS Service
 
